@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Search cities, fetch live Open-Meteo forecasts, view current conditions, 7-day outlooks, and actionable planning recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

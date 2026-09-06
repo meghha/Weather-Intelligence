@@ -1,0 +1,1 @@
+This repository contains the source code for the weather intelligence dashboard that lets users input any location and obtain the current weather information. It also provides the forecast for the next 7 days, as well as planning recommendations to better prepare for any weather conditions.
